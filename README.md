@@ -92,7 +92,7 @@ The script includes error handling to manage potential issues during web request
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [License.md](License.md) file for details.
 
 ## Acknowledgements
 
