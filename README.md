@@ -1,4 +1,4 @@
-# Inspirational Quotes CLI
+# Inspiration CLI
 
 A Python command-line tool to fetch and display inspirational quotes from [azquotes.com](https://www.azquotes.com/).
 
