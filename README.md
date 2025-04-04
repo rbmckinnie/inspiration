@@ -24,6 +24,7 @@ A Python command-line tool to fetch and display inspirational quotes from [azquo
     * It is recommended to create a virtual environment
     * Install the required packages using pip:
 
+
     ```bash
     pip install -r requirements.txt
     ```
