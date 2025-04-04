@@ -26,6 +26,7 @@ A Python command-line tool to fetch and display inspirational quotes from [azquo
 
 
     ```bash
+    
     pip install -r requirements.txt
     ```
     
