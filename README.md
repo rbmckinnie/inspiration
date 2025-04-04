@@ -103,5 +103,4 @@ This project is licensed under the MIT License - see the [License.md](license.md
     * `requests`
     * `beautifulsoup4`
     * `pandas`
-
-```
+ 
